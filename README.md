@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @ahmedz02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Computer Science Student
+💻 Aspiring Full Stack Developer
+🌱 Currently building projects with React
+🚀 Learning new technologies every day
 
-<!---
-ahmedz02/ahmedz02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technologies I'm Working With
+HTML5 CSS3 JavaScript React Node.js Git VS Code
+
+Currently Working On
+Building modern web applications with React
+Developing my full stack development skills
+Creating responsive and interactive user interfaces
+Learning backend technologies
+Connect With Me
+LinkedIn
